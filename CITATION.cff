@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the repository and the SPARC dataset."
+title: "Adaptive Gravity (ARP) rotation curve simulator"
+authors:
+  - name: "RDM3DC"
+version: "0.1.0"
+date-released: "2025-08-20"
+repository-code: "https://github.com/RDM3DC/adaptive_gravity"
+references:
+  - type: article
+    authors:
+      - family-names: Lelli
+        given-names: Federico
+      - family-names: McGaugh
+        given-names: Stacy S.
+      - family-names: Schombert
+        given-names: James M.
+    year: 2016
+    title: "SPARC: Mass Models for 175 Disk Galaxies with Spitzer Photometry and Accurate Rotation Curves"
+    journal: "The Astronomical Journal"
+    volume: "152"
+    number: "6"
+    doi: "10.3847/0004-6256/152/6/157"
